@@ -1,25 +1,12 @@
-### Hi there 👋
 
-<!--
-**AlaaAlhoot/AlaaAlhoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### Hey 👋🏽
 
 <br/>
 
-Welcome to my GitHub page! I am a full-stack web developer with a strong background in computer science and a passion for creating innovative and efficient web solutions. I am proficient in multiple programming languages and frameworks, and I am always looking to improve my skills and stay current with the latest web development trends. I am open to new opportunities and collaborations, and you can contact me via email. Thank you for visiting my page.
+Welcome to my GitHub page!
+ <br/>
+I am a full-stack web developer with a strong background in computer science and a passion for creating innovative and efficient web solutions. I am proficient in multiple programming languages and frameworks, and I am always looking to improve my skills and stay current with the latest web development trends. I am open to new opportunities and collaborations, and you can contact me via email. Thank you for visiting my page.
 
 ####      ![](https://img.shields.io/badge/Full-Stack-yellowgreen) ![](https://img.shields.io/badge/Web-Developer-yellowgreen) 
   
