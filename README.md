@@ -34,7 +34,10 @@ Welcome to my GitHub page! I am a full-stack web developer with a strong backgro
 - 📫 Ask me about anything, I am happy to help
 
 **Connect with me:**
-- 💬 Linkedin : [@Alaa Linkedin](https://www.linkedin.com/in/alaa-al-hoot-b89374246/)
+- 💬 Linkedin : [@Link Linkedin](https://www.linkedin.com/in/alaa-al-hoot-b89374246/)
+- 💬 Upwork: [@Link Upwork](https://www.upwork.com/freelancers/~0199cc148c2a9d1d9f)
+- 💬 Mostaql: [@Link Mostaql](https://mostaql.com/u/Alaa_emad2001)
+- 📱  Whatsapp : [@Link Whatsapp ](https://wa.me/972598964850)
 - 📱  Mobile : +972598964850
 - 📝 Email : alaaalhoot74@gmail.com
 
