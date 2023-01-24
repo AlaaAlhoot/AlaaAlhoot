@@ -28,7 +28,7 @@ I am a full-stack web developer with a strong background in computer science and
 - 📱  Mobile : +972598964850
 - 📝 Email : alaaalhoot74@gmail.com
 
-
+<h2 font-weight="bold">Front End Development Skill</h2>
 <table>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="50"></td>
@@ -70,6 +70,16 @@ I am a full-stack web developer with a strong background in computer science and
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" width="50"></td>
   </tr>
 </table>
+<h2 style="font-weight:bold;">Development Tools</h2>
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" width="50"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/512px-PhpStorm_Icon.svg.png?20200803075927" width="50"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/70566ceaeb89cc0838a252e1cd7f1001da91a96c/icons/pycharm/pycharm.png" width="50"></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" width="50"></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" width="50"></td>
+  </tr>
+</table>
 <h2 style="font-weight:bold;">Extra Skills</h2>
 <table>
   <tr>
@@ -81,17 +91,6 @@ I am a full-stack web developer with a strong background in computer science and
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/blender/blender-original.svg" width="50"></td>
   </tr>
 </table>
-<h2 style="font-weight:bold;">Development Tools</h2>
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" width="50"></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/512px-PhpStorm_Icon.svg.png?20200803075927" width="50"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/70566ceaeb89cc0838a252e1cd7f1001da91a96c/icons/pycharm/pycharm.png" width="50"></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" width="50"></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" width="50"></td>
-  </tr>
-</table>
-
 
 <div>
   <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=blackeagle0188.blackeagle0188" />
