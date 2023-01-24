@@ -53,7 +53,9 @@ Welcome to my GitHub page! I am a full-stack web developer with a strong backgro
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/laravel-2-1175146.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/django-13-1175187.png" width="100"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="100"></td>
+    
   </tr>
 </table>
 
