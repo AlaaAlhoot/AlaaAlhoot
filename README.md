@@ -51,11 +51,24 @@ Welcome to my GitHub page! I am a full-stack web developer with a strong backgro
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/php-99-1175127.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/mysql-4-226026.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/laravel-2-1175146.png" width="100"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain.svg" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/django-13-1175187.png" width="100"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="100"></td>
-    
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" width="100"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/anaconda/anaconda-original.svg" width="100"></td>
+  </tr>
+</table>
+<h2 font-weight="bold"> Extra 𝐒𝐤𝐢𝐥𝐥 </h2>
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unity/unity-original.svg" width="100"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" width="100"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-plain.svg" width="100"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/premierepro/premierepro-plain.svg" width="100"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/xd/xd-plain.svg" width="100"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/blender/blender-original.svg" width="100"></td>
   </tr>
 </table>
 
